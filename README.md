@@ -1,14 +1,8 @@
 # com.danielmartincraig/waterbottle
 
-FIXME: my new application.
-
-## Installation
-
-Download from https://github.com/danielmartincraig/waterbottle
+Waterbottle
 
 ## Usage
-
-FIXME: explanation
 
 Run the project directly, via `:exec-fn`:
 
